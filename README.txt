@@ -10,3 +10,4 @@ Feature1
 Feature2
 Feature2 changes
 Sharing remotely is fun and easy.
+Adding changes for feature 2
